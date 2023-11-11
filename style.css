@@ -1,0 +1,112 @@
+body{
+    background-color: honeydew;
+}
+
+h1{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    color:brown;
+    font-family:'Times New Roman', Times, serif 
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.unordered-list{
+    color: darkblue;
+}
+
+.ordered-list{
+    color:darkgoldenrod
+}
+
+#css-item{
+    color: darkgreen;
+    font-weight: bold;
+    font-style: italic;
+}
+
+#image{
+    width: 30%;
+    border-radius: 200px;
+}
+
+table{
+    border: 2px solid blueviolet;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+table,th,td{
+    border:  solid 2px blueviolet;
+    padding: 5px;
+}
+
+th{
+    background-color: lightgray;
+}
+td{
+    text-align: center;
+}
+.input-control{
+    height: 30px;
+    width: 250px;
+    border: blueviolet 2px solid;
+    border-radius: 5px;
+}
+
+#btn-submit{
+    height: 30px;
+    width: 250px;
+    background-color: blueviolet;
+    color: whitesmoke;
+    font-size: 14px;
+}
+
+#main-content{
+    border: blueviolet 2px solid;
+    margin: 50px;
+    padding: 10px;
+}
+
+#hearder-div{
+    height: 50px;
+    padding: 5px;
+}
+
+#menu-div{
+    float: right;
+    padding: 5px;
+}
+
+#menu-items li{
+    display: inline;
+    padding: 5px;
+    border-right: 2px blueviolet solid;
+}
+
+#title-div{
+    float: left;
+    height: inherit;
+}
+
+#front-end{
+    background-color: lightgray;
+    width: 49%;
+    float: left;
+}
+
+#back-end{
+    background-color: lightgray;
+    width: 49%;
+    float: right;
+}
+
+
+
+
